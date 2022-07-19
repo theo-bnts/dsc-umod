@@ -81,7 +81,7 @@ export default {
             `)
 
             if (!rows.at().metadefender_api_key)
-                replies.push('Pensez à ajouter une clé Metadefender afin de pouvoir utiliser la modération de liens & virus.\n[Tutoriel](https://u-short.cf/r/tuto-clarifai)')
+                replies.push('Pensez à ajouter une clé Metadefender afin de pouvoir utiliser la modération de liens & virus.\n[Tutoriel](https://u-short.cf/r/tuto-metadefender)')
         
         }
 
